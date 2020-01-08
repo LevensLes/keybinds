@@ -1,0 +1,9 @@
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\bin\Debug\SimpleKeyBinds.exe.config
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\bin\Debug\SimpleKeyBinds.exe
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\bin\Debug\SimpleKeyBinds.pdb
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\obj\Debug\SimpleKeyBinds.csprojAssemblyReference.cache
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\obj\Debug\SimpleKeyBinds.Form1.resources
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\obj\Debug\SimpleKeyBinds.Properties.Resources.resources
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\obj\Debug\SimpleKeyBinds.csproj.GenerateResource.cache
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\obj\Debug\SimpleKeyBinds.exe
+C:\Users\LevensLes\source\repos\SimpleKeyBinds\SimpleKeyBinds\obj\Debug\SimpleKeyBinds.pdb
